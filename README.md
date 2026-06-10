@@ -50,6 +50,30 @@ Its purpose is to help users understand whether their current passwords are pred
 - Special character usage
 - Leet statistics
 
-### REST API
 
-Endpoints:
+### Flask Backend
+
+Built with:
+
+- Flask
+- Flask-CORS
+- Python
+
+---
+
+## Example
+
+Input:
+
+```json
+{
+    "first_name": "john",
+    "last_name": "smith",
+    "birth_year": "1999"
+}
+
+output
+{
+    "count": 15000,
+    "passwords": [...]
+}
