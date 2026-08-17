@@ -1,4 +1,4 @@
-"""
+ """
 PersonaAudit - Flask Backend
 POST /generate  →  returns password list from generator.py
 """
