@@ -1,4 +1,4 @@
-"""
+ """
 PersonaAudit v2 - Password Wordlist Generator
 ==============================================
 Research-backed personal password auditor.
